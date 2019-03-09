@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: konstantinospelas@gmail.com
     phone: 698******30
-    Facebook: /kostis.trelaras
-    Instagram: kostakis_pls
+    facebook: kostis.trelaras
+    instagram: kostakis_pls
     # linkedin: alandoe
     github: kostakisXpls
     # gitlab:
@@ -27,6 +27,8 @@ sidebar:
     languages:
       - idiom: English
         level: Normal
+      - idiom: Greek
+        level: Native
 
     interests:
       - item: Photoshooting
