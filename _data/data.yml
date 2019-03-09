@@ -42,6 +42,7 @@ career-profile:
      I have developed my skills on infromatics on a basic level and 
      i am planning on increasing the level in the near future with hard work and loyalty. 
      I also plan to use my skill and expend my knowledge on the deparment of networks.
+
 education:
     - degree: BSc in Computer Science
       university: University of Ionio
@@ -49,14 +50,13 @@ education:
       details: |
       I am so happy to  studying at a University like this because the level is too high. 
       When i will finish the University,i will be proud for my self because all this situation is too diffcult for me. 
-
-        During these years of my studies,i have developed my skills in:
-
+      During these years of my studies,i have developed my skills in:
             Java 
             Python
             C
             C++
             Html
+            
     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
     #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
     #    sociis natoque penatibus et magnis dis parturient montes, nascetur
