@@ -16,7 +16,6 @@ sidebar:
     phone: 698******30
     facebook: kostis.trelaras
     instagram: kostakis_pls
-    # linkedin: alandoe
     github: kostakisXpls
     # gitlab:
     # bitbucket:
@@ -43,12 +42,22 @@ career-profile:
      I have developed my skills on infromatics on a basic level and 
      i am planning on increasing the level in the near future with hard work and loyalty. 
      I also plan to use my skill and expend my knowledge on the deparment of networks.
-#education:
- #   - degree: MSc in Computer Science
-  #    university: University of London
-   #   time: 2011 - 2012
-    #  details: |
-     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+education:
+    - degree: BSc in Computer Science
+      university: University of Ionio
+      time: 2016 - present
+      details: |
+      I am so happy to  studying at a University like this because the level is too high. 
+      When i will finish the University,i will be proud for my self because all this situation is too diffcult for me. 
+
+        During these years of my studies,i have developed my skills in:
+
+            Java 
+            Python
+            C
+            C++
+            Html
+    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
     #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
     #    sociis natoque penatibus et magnis dis parturient montes, nascetur
     #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -128,14 +137,14 @@ skills:
       - name: Word
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: PUBG
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+     # - name: 
+      #  level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+     # - name: Sketch & Photoshop
+      #  level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
