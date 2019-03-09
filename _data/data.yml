@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Konstantinos Pelas
+    email: konstantinospelas@gmail.com
     phone: 698******30
     Facebook: kostis.trelaras
     Instagram: kostakis_pls
@@ -30,10 +30,8 @@ sidebar:
 
     interests:
       - item: Photoshooting
-      - item: Vdeographer
-        link:
+      - item: Videographer
       - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -118,13 +116,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Photoshop
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: FinalCut Pro
         level: 98%
 
-      - name: Angular
+      - name: Word
         level: 98%
 
       - name: HTML5 & CSS
