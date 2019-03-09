@@ -143,8 +143,8 @@ skills:
       - name: Word
         level: 98%
 
-      - name: PUBG
-        level: 95%
+      # - name: PUBG
+       # level: 95%
 
      # - name: 
       #  level: 85%
